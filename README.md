@@ -12,3 +12,7 @@ MobileNetV2 is used.
 In the V1 notebook 52% accuracy is achieved.
 
 Will try to improve in version 2.
+
+**Training:**
+
+I have trained model with few version. The weights for best model is in best_model.h5 file.
