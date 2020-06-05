@@ -15,4 +15,6 @@ Will try to improve in version 2.
 
 **Training:**
 
-I have trained model with few version. The weights for best model is in best_model.h5 file.
+I have experimented with few architectures. The weights for architecture is in best_model.h5 file.
+
+The notebook has only the best architecture model in it.
